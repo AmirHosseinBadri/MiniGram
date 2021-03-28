@@ -1,1 +1,3 @@
-<img alt="چند تصویر در یک تصویر - ویسگون" class="n3VNCb" src="https://cdn-tehran.wisgoon.com/dlir-s3/1595285112113112742.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="44397.200000006706" style="width: 360px; height: 378px; margin: 0px;">
+{
+  "متن": "تیم برنامه نویسی مینی‌آپ"
+}
